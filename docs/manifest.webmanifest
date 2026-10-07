@@ -1,0 +1,20 @@
+{
+  "name": "LogisticAM Routes",
+  "short_name": "LogisticAM",
+  "description": "Planeación, seguridad y monitoreo de rutas para flotillas y logística",
+  "lang": "es-MX",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1b2f",
+  "theme_color": "#0b1b2f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
